@@ -71,3 +71,6 @@ REST/SOAP microservices and clean architectures (DDD, Hexagonal, TDD, CQRS) with
 
 
 ## **Let's build something together!**
+Watch some of my most interesting projects...
+
+<img src="https://cdn-ildjinb.nitrocdn.com/NutvyOLeqUXbPVDzfmEXUHSMvfNaYzGN/assets/images/optimized/rev-34a224e/nujum.ae/wp-content/uploads/revslider/home/white-arrow-down.gif" alt="Arrow pointing down animation" width="35" />  <img src="https://cdn-ildjinb.nitrocdn.com/NutvyOLeqUXbPVDzfmEXUHSMvfNaYzGN/assets/images/optimized/rev-34a224e/nujum.ae/wp-content/uploads/revslider/home/white-arrow-down.gif" alt="Arrow pointing down animation" width="35" />  <img src="https://cdn-ildjinb.nitrocdn.com/NutvyOLeqUXbPVDzfmEXUHSMvfNaYzGN/assets/images/optimized/rev-34a224e/nujum.ae/wp-content/uploads/revslider/home/white-arrow-down.gif" alt="Arrow pointing down animation" width="35" />
