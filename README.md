@@ -2,13 +2,16 @@
 
 **Backend Engineer**
 # STEVEN BARRIOS.
-**Spain | +34 685 50 80 13 | rockystevendeveloper@gmail.com | [linkedin.com/in/rockydev101](https://linkedin.com/in/rockydev101)**<br/>
+**Spain | +34 685 50 80 13 | rockystevendeveloper@gmail.com | [linkedin.com/in/rockydev101](https://linkedin.com/in/rockydev101) | [Portfolio](https://101rockyprojects.github.io/portafolio/)** <br/>
 *Backend Engineer with 4+ years of experience building robust and scalable systems, specialized in APIs,
 REST/SOAP microservices and clean architectures (DDD, Hexagonal, TDD, CQRS) with SOLID principles.*
 > “Small upgrades lead to great systems.”
 
+
 ## 💻 Skill Set:
 *Languages & Frameworks*
+
+<img src="./assets/card.webp" alt="Steven Barrios Professional Card" width="400" align="right" />
 
 ![Java](https://img.shields.io/badge/java-%23FF2D20.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -56,7 +59,7 @@ REST/SOAP microservices and clean architectures (DDD, Hexagonal, TDD, CQRS) with
 
 ---
 
-## ⚡ About Me:
+## ⚡ Resume:
 **Backend Engineer** with **4+ years** of experience, specialising in building **robust APIs** and **scalable microservices** using clean architectures (Hexagonal, DDD, CQRS) and SOLID principles.
 
 ``` 
@@ -66,4 +69,5 @@ REST/SOAP microservices and clean architectures (DDD, Hexagonal, TDD, CQRS) with
 🤝 Looking for: To contribute to open-source projects that improve the developer experience in distributed systems.
 ```
 
-Let's build something together!
+
+## **Let's build something together!**
